@@ -1,5 +1,5 @@
 # img-cables
-Images for the open-cv training
+Images for the open-cv training      antes eu era 100% bolsonaro e agora sou 200% - Tales Lima
 
 
 Cables-TY4 - v1 2023-03-01 1:05pm
